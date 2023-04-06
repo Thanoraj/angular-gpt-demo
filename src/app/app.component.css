@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.dark {
+  color: #fff;
+  background-color: #333;
+  border: 1px solid #333;
+}
+
+.submit-btn {
+  margin-top: 1rem;
+}
+
+.submitted-message {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #fff;
+  background-color: #333;
+  padding: 1rem;
+}
